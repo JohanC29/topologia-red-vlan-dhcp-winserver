@@ -1,4 +1,4 @@
-# topologia-red-vlan-dhcp-winserver
+# topologia de red con vlan y dhcp en windows server
 
 La configuracion presente en este proyecto se utiliza para implementar la siguiente topologia de red:
 
