@@ -2,7 +2,7 @@
 
 La configuracion presente en este proyecto se utiliza para implementar la siguiente topologia de red:
 
-![Descripción de la imagen](/images/topologia.png)
+![Topologia de red](/images/topologia.png)
 
 ## Componentes
 
